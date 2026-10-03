@@ -1,0 +1,19 @@
+{
+  "name": "run-status",
+  "version": "0.5.0",
+  "description": "Records each run's tokens, cache hit rate, requests and tool calls: live stats above the prompt while a run works, a coloured context forecast and stats under each turn's closing line in the terminal (the desktop keeps the last run above the prompt instead), and a /run-status pane. Needs function hooks (early access).",
+  "author": {
+    "name": "Jim Yeh"
+  },
+  "license": "MIT",
+  "keywords": [
+    "tokens",
+    "cache",
+    "usage",
+    "context",
+    "terminal",
+    "function-hooks",
+    "mod"
+  ],
+  "types": "./types/index.d.ts"
+}

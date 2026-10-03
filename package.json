@@ -1,0 +1,8 @@
+{
+  "name": "run-status",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "claude plugin test ."
+  }
+}

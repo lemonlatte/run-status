@@ -1,0 +1,17 @@
+{
+  "name": "run-status",
+  "owner": {
+    "name": "Jim Yeh"
+  },
+  "metadata": {
+    "description": "run-status: per-run token, cache, request and tool-call stats for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "run-status",
+      "source": "./",
+      "description": "Per-run token, cache, request and tool-call stats with a context forecast under each turn",
+      "license": "MIT"
+    }
+  ]
+}
